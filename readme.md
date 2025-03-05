@@ -13,6 +13,7 @@ Download this repo duhh ;)
 # Configuration
 
 First create a config-file for the mailbox you want to sync
+
     {
       "imap_server": "imap.domain.de",  # insert the address to the imap server here
       "imap_user": "info@domain.de",    # insert username or mail address
