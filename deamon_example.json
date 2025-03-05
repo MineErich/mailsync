@@ -1,0 +1,4 @@
+{
+    "logfile": "deamon.log",
+    "mailaccounts": ["config.json"]
+}

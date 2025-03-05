@@ -1,0 +1,9 @@
+{
+  "imap_server": "imap.domain.de",
+  "imap_user": "info@domain.de",
+  "imap_password": "password",
+  "local_folder": "emails/folder1",
+  "logfile": "mail2nc.log",
+  "mailboxes": [],
+  "last_uid": {}
+}
